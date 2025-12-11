@@ -28,7 +28,6 @@ Project Structure
 └── sample.bmp (example image)
 
 How It Works
-
 Encoding
 1. Read source image
 2. Copy BMP header
@@ -58,5 +57,3 @@ Example Output
 * Original BMP
 * Encoded BMP (visually same)
 * Extracted file with original content
-
-Just tell me!
